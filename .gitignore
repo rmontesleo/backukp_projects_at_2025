@@ -1,0 +1,12 @@
+.vs
+.vscode
+
+*.pem
+**/*.pem
+
+.env
+**/.env
+
+
+.DS_Store
+**/.DS_Store

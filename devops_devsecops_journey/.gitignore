@@ -1,0 +1,16 @@
+#
+.vs
+.vscode
+
+
+#
+.env
+**/.env
+
+#
+*.pem
+**/*.pem
+
+
+#
+**/responses/*.json
